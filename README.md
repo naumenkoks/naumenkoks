@@ -1,6 +1,6 @@
 🎮 Kirill | Aspiring Game Developer
 
-Hi! I'm Kirill, an aspiring game developer transitioning from data analytics into the creative world of gameplay programming and design. I find joy in crafting engaging mechanics and bringing game worlds to life using Unity and C# — and soon Unreal Engine & C++ too.
+Hi! I'm Kirill, a game developer transitioning from data analytics into the creative world of gameplay programming and design. I find joy in crafting engaging mechanics and bringing game worlds to life using Unity and C# — and soon Unreal Engine & C++ too.
 
 ## 🚀 My GameDev Journey So Far
 - Built and published multiple 2D Unity games (see pinned projects 👇)
