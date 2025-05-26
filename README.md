@@ -1,20 +1,31 @@
-🎮 Kirill | Aspiring Game Developer
+👨‍💻 Kirill | Software Developer (Python & C#)
 
-Hi! I'm Kirill, a game developer transitioning from data analytics into the creative world of gameplay programming and design. I find joy in crafting engaging mechanics and bringing game worlds to life using Unity and C# — and soon Unreal Engine & C++ too.
+Hi! I'm Kirill, a developer with a background in data analytics and a focus on backend development.  
+I build real-world backend applications using Python — including REST APIs, automation tools, and data-powered systems.
 
-## 🚀 My GameDev Journey So Far
-- Built and published multiple 2D Unity games (see pinned projects 👇)
-- Learning clean, modular scripting and gameplay logic
-- Focused on player feel, feedback, and meaningful game interaction
-- Practicing core systems like physics, particle FX, collision detection, and camera control
-- Currently completing GameDev.tv’s comprehensive Unity 2D course
+I write clean, modular code and working with tools like FastAPI, Git, SQL (PostgreSQL, MySQL), and Postman.  
+I'm continuously improving my development skills and expanding into technologies like Docker and .NET.
 
-## 🛠️ Tech & Tools
-- Unity (2D), C#, Git, GitHub
-- Learning: Unity 3D, C++, Unreal Engine 5
-- Background: SQL, Python, Tableau, data engineering
+---
 
-## 🎯 My Goal
-To join a passionate game development team — small or large — where I can contribute to gameplay programming, systems design, and fun player experiences. I'm open to remote and on-site roles across the EU.
+ **Tech & Tools** 🛠️
+- **Python (FastAPI, REST, JSON)**
+- **Git, GitHub, Postman, VS Code, PyCharm**
+- **SQL (PostgreSQL, MySQL), Tableau, Excel**
+- **Unity (C#) — experience with 2D game logic and mechanics**
+- Learning: C# with .NET, Docker, backend architecture
 
-Let’s build something awesome together!
+---
+
+**What I'm Working On**
+- 🔧 Building and refining API-driven applications
+- 📊 Strengthening database skills with SQL and data modeling
+- ⚙️ Automating workflows and exploring deployment options
+
+---
+
+**My Goal**
+To contribute to impactful development projects, grow as a backend engineer, and build clean, scalable solutions.  
+I'm open to remote and on-site opportunities across the EU.
+
+Let’s build something awesome!
